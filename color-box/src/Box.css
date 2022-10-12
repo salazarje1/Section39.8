@@ -1,0 +1,18 @@
+.Parent{
+    display: inline-block;
+    position: relative;
+}
+
+.Box{
+    display: inline-block;
+    margin: 1rem;
+}
+
+.Box-button {
+    display: inline; 
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    border: none;
+    font-size: 1em;
+}
